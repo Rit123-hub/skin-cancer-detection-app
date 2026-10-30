@@ -1,0 +1,2 @@
+Copy mobilenetv3small_float32.tflite into this folder.
+Expected filename: mobilenetv3small_float32.tflite
